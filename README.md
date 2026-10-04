@@ -4,7 +4,10 @@ REST API desarrollada con **Java 21 y Spring Boot** para la gestión de clientes
 
 El proyecto está basado en una arquitectura por capas y utiliza **Spring Data JPA/Hibernate** para la persistencia de datos, DTOs para la comunicación con la API, Assemblers para transformar objetos y Spring Security para la protección de los endpoints.
 
-> Proyecto personal basado en una API desarrollada durante mi formación/prácticas y posteriormente adaptada para funcionar como proyecto independiente.
+## Importante
+Proyecto desarrollado durante mi periodo de prácticas profesionales, dentro de un entorno empresarial.
+
+El repositorio presenta un número reducido de commits debido a que el desarrollo original se realizó principalmente dentro de la infraestructura y flujo de trabajo interno de la empresa. Posteriormente, el proyecto fue preparado y organizado en este repositorio con fines de portfolio y demostración técnica.
 
 ---
 
